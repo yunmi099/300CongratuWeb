@@ -3,7 +3,7 @@
 
 assets/
 Letter.jsx
-
+letterInner.jsx
 # dependencies
 /node_modules
 /.pnp

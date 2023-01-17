@@ -23,8 +23,7 @@ function App() {
                 </>
               }
             />
-          </Routes>
-          <Routes>
+
             <Route
               path="/photo"
               element={
@@ -34,8 +33,7 @@ function App() {
                 </>
               }
             />
-          </Routes>
-          <Routes>
+
             <Route
               path="/album"
               element={
@@ -45,8 +43,7 @@ function App() {
                 </>
               }
             />
-          </Routes>
-          <Routes>
+
             <Route
               path="/letter"
               element={
