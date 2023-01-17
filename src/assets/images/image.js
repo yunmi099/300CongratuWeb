@@ -25,5 +25,6 @@ const imageList = [
   { id: 24, name: "헿 언제지?" },
   { id: 25, name: "장보깅ㅇ" },
   { id: 26, name: "메타버스 전시회🌌" },
+  { id: 27, name: "끝❣️" },
 ];
 export default imageList;

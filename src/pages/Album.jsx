@@ -5,7 +5,10 @@ const Album = () => {
   const [count, setCount]= useState(1);
   useEffect(()=>{    
   setTimeout(()=>{
-    setCount(count+1);
+    if(count<27){
+      setCount(count+1);
+    } else {
+    }
   }, 2000)})
 // console.log(imageList)
   return (
