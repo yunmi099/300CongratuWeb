@@ -27,7 +27,7 @@ const StyledFont = styled.div`
   text-decoration : underline;
   text-decoration-style: wavy;
   text-decoration-color: grey;
-  line-height: 1.5em; 
+  line-height: 1.7em; 
   text-underline-offset:5px;
   
 `
