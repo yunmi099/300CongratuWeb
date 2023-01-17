@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/300CongratuWeb/static/css/main.22b1d488.css",
-    "main.js": "/300CongratuWeb/static/js/main.82c9bf4d.js",
+    "main.js": "/300CongratuWeb/static/js/main.23498fd6.js",
     "static/js/787.d4d23278.chunk.js": "/300CongratuWeb/static/js/787.d4d23278.chunk.js",
     "static/media/1.mp4": "/300CongratuWeb/static/media/1.9b7db2eb05e32980ef65.mp4",
     "static/media/NanumSquare_acR.ttf": "/300CongratuWeb/static/media/NanumSquare_acR.4e7e79f44291f1287d1d.ttf",
@@ -33,11 +33,11 @@
     "static/media/4.jpeg": "/300CongratuWeb/static/media/4.ef6e5890c083325366ca.jpeg",
     "index.html": "/300CongratuWeb/index.html",
     "main.22b1d488.css.map": "/300CongratuWeb/static/css/main.22b1d488.css.map",
-    "main.82c9bf4d.js.map": "/300CongratuWeb/static/js/main.82c9bf4d.js.map",
+    "main.23498fd6.js.map": "/300CongratuWeb/static/js/main.23498fd6.js.map",
     "787.d4d23278.chunk.js.map": "/300CongratuWeb/static/js/787.d4d23278.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.22b1d488.css",
-    "static/js/main.82c9bf4d.js"
+    "static/js/main.23498fd6.js"
   ]
 }
