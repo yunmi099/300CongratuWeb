@@ -10,7 +10,7 @@ import Login from "./components/login";
 import { RecoilRoot } from "recoil";
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <RecoilRoot>
         <div className="App">
           <Routes>
